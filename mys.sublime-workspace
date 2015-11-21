@@ -259,23 +259,39 @@
 			"file": "polls/views.py",
 			"settings":
 			{
-				"buffer_size": 715,
+				"buffer_size": 1435,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "polls/templates/polls/results.html",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "polls/templates/polls/detail.html",
 			"settings":
 			{
-				"buffer_size": 144,
+				"buffer_size": 482,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mysite/settings.py",
+			"settings":
+			{
+				"buffer_size": 2685,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "polls/templates/polls/index.html",
 			"settings":
 			{
-				"buffer_size": 256,
+				"buffer_size": 267,
 				"line_ending": "Windows"
 			}
 		},
@@ -283,7 +299,7 @@
 			"file": "polls/urls.py",
 			"settings":
 			{
-				"buffer_size": 391,
+				"buffer_size": 358,
 				"line_ending": "Windows"
 			}
 		},
@@ -291,7 +307,7 @@
 			"file": "mysite/urls.py",
 			"settings":
 			{
-				"buffer_size": 797,
+				"buffer_size": 819,
 				"line_ending": "Unix"
 			}
 		}
@@ -348,8 +364,7 @@
 		"/E/WORK/MSIT/IT/WP/Django/mysite/mysite",
 		"/E/WORK/MSIT/IT/WP/Django/mysite/polls",
 		"/E/WORK/MSIT/IT/WP/Django/mysite/polls/templates",
-		"/E/WORK/MSIT/IT/WP/Django/mysite/polls/templates/polls",
-		"/E/WORK/MSIT/IT/WP/Django/mysite/templates/admin"
+		"/E/WORK/MSIT/IT/WP/Django/mysite/polls/templates/polls"
 	],
 	"file_history":
 	[
@@ -477,7 +492,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -486,15 +501,157 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 715,
+						"buffer_size": 1435,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								460,
-								460
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "polls/templates/polls/results.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "polls/templates/polls/detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "mysite/settings.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								409,
+								409
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "polls/templates/polls/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "polls/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								357
 							]
 						],
 						"settings":
@@ -509,115 +666,31 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "polls/templates/polls/detail.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 144,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								144,
-								144
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "polls/templates/polls/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 256,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								256,
-								256
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "polls/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 391,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								118,
-								118
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
+					"buffer": 6,
 					"file": "mysite/urls.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 797,
+						"buffer_size": 819,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								747,
-								747
+								770,
+								770
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.tmLanguage"
 						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.x": -0.0,
+						"translation.y": 180.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -656,7 +729,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 30.0
+		"height": 254.0
 	},
 	"output.find_results":
 	{
